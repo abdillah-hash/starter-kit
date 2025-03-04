@@ -15,6 +15,12 @@ const mainNavItems: NavItem[] = [
     },
 
     {
+        title: 'My Course View',
+        url: '/my-course-view',
+        icon: LayoutDashboard
+    },
+
+    {
         title: 'My Course',
         url: '/my-course',
         icon: Layers,
